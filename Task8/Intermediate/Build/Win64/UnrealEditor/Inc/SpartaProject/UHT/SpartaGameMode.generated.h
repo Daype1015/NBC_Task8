@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define SPARTAPROJECT_SpartaGameMode_generated_h
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameMode_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameMode_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASpartaGameMode(); \
 	friend struct Z_Construct_UClass_ASpartaGameMode_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ASpartaGameMode)
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameMode_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameMode_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ASpartaGameMode(ASpartaGameMode&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~ASpartaGameMode();
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameMode_h_12_PROLOG
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameMode_h_15_GENERATED_BODY \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameMode_h_12_PROLOG
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameMode_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameMode_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameMode_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameMode_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameMode_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> SPARTAPROJECT_API UClass* StaticClass<class ASpartaGameMode>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameMode_h
+#define CURRENT_FILE_ID FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameMode_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

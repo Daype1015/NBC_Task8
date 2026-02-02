@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define SPARTAPROJECT_ItemSpawnRow_generated_h
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemSpawnRow_h_12_GENERATED_BODY \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemSpawnRow_h_12_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FItemSpawnRow_Statics; \
 	SPARTAPROJECT_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -23,7 +23,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> SPARTAPROJECT_API UScriptStruct* StaticStruct<struct FItemSpawnRow>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemSpawnRow_h
+#define CURRENT_FILE_ID FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemSpawnRow_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

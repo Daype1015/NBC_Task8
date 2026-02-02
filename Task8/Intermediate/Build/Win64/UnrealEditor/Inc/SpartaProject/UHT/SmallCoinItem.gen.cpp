@@ -79,14 +79,14 @@ ASmallCoinItem::~ASmallCoinItem() {}
 // End Class ASmallCoinItem
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SmallCoinItem_h_Statics
+struct Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SmallCoinItem_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASmallCoinItem, ASmallCoinItem::StaticClass, TEXT("ASmallCoinItem"), &Z_Registration_Info_UClass_ASmallCoinItem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASmallCoinItem), 2374558479U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SmallCoinItem_h_778773129(TEXT("/Script/SpartaProject"),
-	Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SmallCoinItem_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SmallCoinItem_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SmallCoinItem_h_778773129(TEXT("/Script/SpartaProject"),
+	Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SmallCoinItem_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SmallCoinItem_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

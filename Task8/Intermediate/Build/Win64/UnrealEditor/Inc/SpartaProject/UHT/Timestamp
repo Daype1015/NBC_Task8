@@ -1,16 +1,16 @@
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\BigCoinItem.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\SpartaCharacter.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\MineItem.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\ItemSpawnRow.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\AKeyItem.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\BaseItem.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\ItemInterface.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\SpartaGameInstance.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\SmallCoinItem.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\HealingItem.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\SpartaGameMode.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\SpartaPawn.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\SpawnVolume.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\SpartaPlayerController.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\CoinItem.h
-D:\Unreal Projects\SpartaProject\Source\SpartaProject\Public\SpartaGameState.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\AKeyItem.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\ItemSpawnRow.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\ItemInterface.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\SpartaCharacter.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\CoinItem.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\BigCoinItem.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\MineItem.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\SmallCoinItem.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\BaseItem.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\SpartaGameInstance.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\SpartaPawn.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\SpartaPlayerController.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\SpartaGameState.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\SpawnVolume.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\SpartaGameMode.h
+D:\Git\NBC_Task8\Task8\Source\SpartaProject\Public\HealingItem.h

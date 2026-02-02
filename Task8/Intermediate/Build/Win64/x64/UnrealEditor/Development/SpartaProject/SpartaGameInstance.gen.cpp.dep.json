@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartagameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
+            "d:\\git\\nbc_task8\\task8\\source\\spartaproject\\public\\spartagameinstance.h",
+            "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartagameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

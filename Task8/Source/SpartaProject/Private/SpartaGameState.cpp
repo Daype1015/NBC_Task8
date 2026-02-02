@@ -21,10 +21,10 @@ ASpartaGameState::ASpartaGameState()
 void ASpartaGameState::BeginPlay()
 {
 	Super::BeginPlay();
-	
-	StartLevel();
 
 	GEngine->AddOnScreenDebugMessage(1, 10.0f, FColor::Red, FString::Printf(TEXT("BeginPlay")));
+
+	StartLevel();
 
 	GetWorldTimerManager().SetTimer(
 		HUDUpdateTimerHandle,
@@ -54,6 +54,14 @@ void ASpartaGameState::AddScore(int32 Amount)
 
 void ASpartaGameState::StartLevel()
 {
+	GetWorldTimerManager().SetTimer(
+		WaveStartHandle,
+		this,
+		&ASpartaGameState::PrintWaveStart,
+		0.1f,
+		false
+	);
+
 	if (!SpawnedItem.IsEmpty())
 	{
 		ClearItemInstance();
@@ -109,7 +117,6 @@ void ASpartaGameState::StartLevel()
 		LevelDuration,
 		false
 	);
-
 }
 
 void ASpartaGameState::OnLevelTimeUp()
@@ -152,6 +159,11 @@ void ASpartaGameState::EndWave()
 			StartLevel();
 		}
 	}
+}
+
+void ASpartaGameState::PrintWaveStart()
+{
+	GEngine->AddOnScreenDebugMessage(1, 3.0f, FColor::Green, FString::Printf(TEXT("Wave %d Start"), CurrentWaveIndex + 1));
 }
 
 void ASpartaGameState::ClearItemInstance()

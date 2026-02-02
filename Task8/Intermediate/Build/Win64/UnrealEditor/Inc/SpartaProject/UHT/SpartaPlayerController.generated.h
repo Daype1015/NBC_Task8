@@ -15,14 +15,14 @@ class UUserWidget;
 #endif
 #define SPARTAPROJECT_SpartaPlayerController_generated_h
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execStartGame); \
 	DECLARE_FUNCTION(execShowMainMenu); \
 	DECLARE_FUNCTION(execShowGameHUD); \
 	DECLARE_FUNCTION(execGetHUDWidget);
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaPlayerController_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaPlayerController_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASpartaPlayerController(); \
 	friend struct Z_Construct_UClass_ASpartaPlayerController_Statics; \
@@ -31,7 +31,7 @@ public: \
 	DECLARE_SERIALIZER(ASpartaPlayerController)
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaPlayerController_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaPlayerController_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ASpartaPlayerController(ASpartaPlayerController&&); \
@@ -43,13 +43,13 @@ public: \
 	NO_API virtual ~ASpartaPlayerController();
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaPlayerController_h_12_PROLOG
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaPlayerController_h_15_GENERATED_BODY \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaPlayerController_h_12_PROLOG
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaPlayerController_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaPlayerController_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaPlayerController_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaPlayerController_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaPlayerController_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,7 +57,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> SPARTAPROJECT_API UClass* StaticClass<class ASpartaPlayerController>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaPlayerController_h
+#define CURRENT_FILE_ID FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaPlayerController_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

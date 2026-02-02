@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartaplayercontroller.gen.cpp",
+        "Source": "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartaplayercontroller.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
-            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\spartaplayercontroller.h",
-            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartaplayercontroller.generated.h"
+            "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
+            "d:\\git\\nbc_task8\\task8\\source\\spartaproject\\public\\spartaplayercontroller.h",
+            "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartaplayercontroller.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

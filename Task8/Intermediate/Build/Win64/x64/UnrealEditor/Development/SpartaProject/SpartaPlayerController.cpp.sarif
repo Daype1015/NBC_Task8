@@ -10,13 +10,13 @@
                         "text": "데이터 멤버 'ASpartaPlayerController::InvenAction'은(는) 데이터 멤버 'ASpartaPlayerController::UseItemAction' 이후에 초기화됩니다."
                     },
                     "analysisTarget": {
-                        "uri": "file:///D:/Unreal Projects/SpartaProject/Source/SpartaProject/Private/SpartaPlayerController.cpp"
+                        "uri": "file:///D:/Git/NBC_Task8/Task8/Source/SpartaProject/Private/SpartaPlayerController.cpp"
                     },
                     "locations": [
                         {
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "file:///D:/Unreal Projects/SpartaProject/Source/SpartaProject/Private/SpartaPlayerController.cpp"
+                                    "uri": "file:///D:/Git/NBC_Task8/Task8/Source/SpartaProject/Private/SpartaPlayerController.cpp"
                                 },
                                 "region": {
                                     "startLine": 24,
@@ -32,13 +32,13 @@
                         "text": "데이터 멤버 'ASpartaPlayerController::bIsOpenIven'은(는) 데이터 멤버 'ASpartaPlayerController::CommonInputMappingContext' 이후에 초기화됩니다."
                     },
                     "analysisTarget": {
-                        "uri": "file:///D:/Unreal Projects/SpartaProject/Source/SpartaProject/Private/SpartaPlayerController.cpp"
+                        "uri": "file:///D:/Git/NBC_Task8/Task8/Source/SpartaProject/Private/SpartaPlayerController.cpp"
                     },
                     "locations": [
                         {
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "file:///D:/Unreal Projects/SpartaProject/Source/SpartaProject/Private/SpartaPlayerController.cpp"
+                                    "uri": "file:///D:/Git/NBC_Task8/Task8/Source/SpartaProject/Private/SpartaPlayerController.cpp"
                                 },
                                 "region": {
                                     "startLine": 26,
