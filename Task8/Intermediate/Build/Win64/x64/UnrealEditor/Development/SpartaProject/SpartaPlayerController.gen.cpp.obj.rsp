@@ -1,12 +1,12 @@
-"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\UnrealEditor\Inc\SpartaProject\UHT\SpartaPlayerController.gen.cpp"
-/FI"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\SpartaProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\Definitions.SpartaProject.h"
-/Yu"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\SpartaProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\SpartaProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaPlayerController.gen.cpp.obj"
-/experimental:log "D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaPlayerController.gen.cpp.sarif"
-/sourceDependencies "D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaPlayerController.gen.cpp.dep.json"
-@"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaProject.Shared.rsp"
+"D:\Git\NBC_Task8\Task8\Intermediate\Build\Win64\UnrealEditor\Inc\SpartaProject\UHT\SpartaPlayerController.gen.cpp"
+/FI"D:\Git\NBC_Task8\Task8\Intermediate\Build\Win64\x64\SpartaProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"D:\Git\NBC_Task8\Task8\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\Definitions.SpartaProject.h"
+/Yu"D:\Git\NBC_Task8\Task8\Intermediate\Build\Win64\x64\SpartaProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"D:\Git\NBC_Task8\Task8\Intermediate\Build\Win64\x64\SpartaProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"D:\Git\NBC_Task8\Task8\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaPlayerController.gen.cpp.obj"
+/experimental:log "D:\Git\NBC_Task8\Task8\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaPlayerController.gen.cpp.sarif"
+/sourceDependencies "D:\Git\NBC_Task8\Task8\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaPlayerController.gen.cpp.dep.json"
+@"D:\Git\NBC_Task8\Task8\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaProject.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

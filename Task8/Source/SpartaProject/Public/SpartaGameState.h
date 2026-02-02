@@ -36,6 +36,7 @@ public:
 
 	FTimerHandle LevelTimerHandle;
 	FTimerHandle HUDUpdateTimerHandle;
+	FTimerHandle WaveStartHandle;
 	int32 CurrentWaveIndex;
 
 	UFUNCTION(BlueprintPure, Category = "Score")
@@ -52,5 +53,6 @@ public:
 	void EndLevel();
 	void UpdateHUD();
 	void EndWave();
+	void PrintWaveStart();
 	void ClearItemInstance();
 };

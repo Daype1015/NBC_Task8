@@ -158,14 +158,14 @@ ASpawnVolume::~ASpawnVolume() {}
 // End Class ASpawnVolume
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpawnVolume_h_Statics
+struct Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpawnVolume_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASpawnVolume, ASpawnVolume::StaticClass, TEXT("ASpawnVolume"), &Z_Registration_Info_UClass_ASpawnVolume, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASpawnVolume), 1228387123U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpawnVolume_h_2892082979(TEXT("/Script/SpartaProject"),
-	Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpawnVolume_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpawnVolume_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpawnVolume_h_2892082979(TEXT("/Script/SpartaProject"),
+	Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpawnVolume_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpawnVolume_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

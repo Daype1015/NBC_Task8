@@ -1,19 +1,19 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\bigcoinitem.gen.cpp",
+        "Source": "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\bigcoinitem.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
-            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\bigcoinitem.h",
-            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\coinitem.h",
-            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\baseitem.h",
-            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\iteminterface.h",
-            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\iteminterface.generated.h",
-            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\baseitem.generated.h",
-            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\coinitem.generated.h",
-            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\bigcoinitem.generated.h"
+            "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
+            "d:\\git\\nbc_task8\\task8\\source\\spartaproject\\public\\bigcoinitem.h",
+            "d:\\git\\nbc_task8\\task8\\source\\spartaproject\\public\\coinitem.h",
+            "d:\\git\\nbc_task8\\task8\\source\\spartaproject\\public\\baseitem.h",
+            "d:\\git\\nbc_task8\\task8\\source\\spartaproject\\public\\iteminterface.h",
+            "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\iteminterface.generated.h",
+            "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\baseitem.generated.h",
+            "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\coinitem.generated.h",
+            "d:\\git\\nbc_task8\\task8\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\bigcoinitem.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

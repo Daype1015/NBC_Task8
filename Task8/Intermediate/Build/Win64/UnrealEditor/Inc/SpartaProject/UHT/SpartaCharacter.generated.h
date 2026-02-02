@@ -15,7 +15,7 @@ struct FInputActionValue;
 #endif
 #define SPARTAPROJECT_SpartaCharacter_generated_h
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaCharacter_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaCharacter_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOpenInven); \
 	DECLARE_FUNCTION(execUseItem); \
 	DECLARE_FUNCTION(execStopSprint); \
@@ -28,7 +28,7 @@ struct FInputActionValue;
 	DECLARE_FUNCTION(execGetHealth);
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaCharacter_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaCharacter_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASpartaCharacter(); \
 	friend struct Z_Construct_UClass_ASpartaCharacter_Statics; \
@@ -37,7 +37,7 @@ public: \
 	DECLARE_SERIALIZER(ASpartaCharacter)
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaCharacter_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaCharacter_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ASpartaCharacter(ASpartaCharacter&&); \
@@ -49,13 +49,13 @@ public: \
 	NO_API virtual ~ASpartaCharacter();
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaCharacter_h_14_PROLOG
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaCharacter_h_17_GENERATED_BODY \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaCharacter_h_14_PROLOG
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaCharacter_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaCharacter_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaCharacter_h_17_INCLASS_NO_PURE_DECLS \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaCharacter_h_17_ENHANCED_CONSTRUCTORS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaCharacter_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaCharacter_h_17_INCLASS_NO_PURE_DECLS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaCharacter_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -63,7 +63,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> SPARTAPROJECT_API UClass* StaticClass<class ASpartaCharacter>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaCharacter_h
+#define CURRENT_FILE_ID FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaCharacter_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

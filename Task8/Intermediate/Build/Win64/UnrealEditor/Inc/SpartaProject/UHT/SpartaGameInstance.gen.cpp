@@ -156,14 +156,14 @@ USpartaGameInstance::~USpartaGameInstance() {}
 // End Class USpartaGameInstance
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameInstance_h_Statics
+struct Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameInstance_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_USpartaGameInstance, USpartaGameInstance::StaticClass, TEXT("USpartaGameInstance"), &Z_Registration_Info_UClass_USpartaGameInstance, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USpartaGameInstance), 1074298758U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameInstance_h_2011412694(TEXT("/Script/SpartaProject"),
-	Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameInstance_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_SpartaGameInstance_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameInstance_h_2011412694(TEXT("/Script/SpartaProject"),
+	Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameInstance_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_SpartaGameInstance_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration
