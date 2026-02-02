@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\spartaproject\\source\\spartaproject\\private\\coinitem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\coinitem.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\baseitem.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\iteminterface.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\iteminterface.generated.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\baseitem.generated.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\coinitem.generated.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\spartagamestate.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestate.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestate.generated.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartagamestate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

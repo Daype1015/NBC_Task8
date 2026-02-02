@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartapawn.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\spartapawn.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartapawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

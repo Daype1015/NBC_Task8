@@ -1,0 +1,32 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SpartaProject-4811.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\SpartaProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\BaseItem.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\BigCoinItem.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\CoinItem.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\ItemInterface.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SmallCoinItem.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaCharacter.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaGameMode.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaPawn.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaPlayerController.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaProject.init.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaProject.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\BaseItem.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\BigCoinItem.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\CoinItem.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\ItemInterface.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SmallCoinItem.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaCharacter.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaGameMode.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaPawn.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\SpartaPlayerController.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\PerModuleInline.gen.cpp.obj"
+"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\Default.rc2.res"
+/OUT:"D:\Unreal Projects\SpartaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\SpartaProject\UnrealEditor-SpartaProject-4811.lib"

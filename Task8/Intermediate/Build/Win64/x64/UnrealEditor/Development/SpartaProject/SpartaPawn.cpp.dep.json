@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\spartaproject\\source\\spartaproject\\private\\spartapawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\spartapawn.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartapawn.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\arrowcomponent.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\arrowcomponent.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\springarmcomponent.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\floatingpawnmovement.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\pawnmovementcomponent.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementcomponent.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementinterface.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navmovementinterface.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\pathfollowingagentinterface.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pathfollowingagentinterface.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navmovementcomponent.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pawnmovementcomponent.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\floatingpawnmovement.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\spartaproject\\source\\spartaproject\\private\\spartagamestatebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\spartagamestatebase.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\spartagamestatebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\spartaproject\\source\\spartaproject\\private\\smallcoinitem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\smallcoinitem.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\coinitem.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\baseitem.h",
+            "d:\\unreal projects\\spartaproject\\source\\spartaproject\\public\\iteminterface.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\iteminterface.generated.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\baseitem.generated.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\coinitem.generated.h",
+            "d:\\unreal projects\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\smallcoinitem.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
