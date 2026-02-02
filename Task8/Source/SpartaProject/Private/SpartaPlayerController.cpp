@@ -48,6 +48,7 @@ void ASpartaPlayerController::BeginPlay()
 	FString CurrentMapName = GetWorld()->GetMapName();
 	if (CurrentMapName.Contains("MenuLevel"))
 	{
+		SetPause(true);
 		ShowMainMenu(false);
 	}
 	
@@ -161,8 +162,8 @@ void ASpartaPlayerController::StartGame()
 		SpartaGameInstance->TotalScore = 0;
 	}
 
-	UGameplayStatics::OpenLevel(GetWorld(), FName("BasicLevel"));
 	SetPause(false);
+	UGameplayStatics::OpenLevel(GetWorld(), FName("BasicLevel"));
 }
 
 //추가과제

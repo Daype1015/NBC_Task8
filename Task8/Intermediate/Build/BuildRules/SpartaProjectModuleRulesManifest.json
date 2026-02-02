@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Unreal Projects\\SpartaProject\\Source\\SpartaProject\\SpartaProject.Build.cs",
-		"D:\\Unreal Projects\\SpartaProject\\Source\\SpartaProject.Target.cs",
-		"D:\\Unreal Projects\\SpartaProject\\Source\\SpartaProjectEditor.Target.cs"
+		"D:\\Git\\NBC_Task8\\Task8\\Source\\SpartaProject\\SpartaProject.Build.cs",
+		"D:\\Git\\NBC_Task8\\Task8\\Source\\SpartaProject.Target.cs",
+		"D:\\Git\\NBC_Task8\\Task8\\Source\\SpartaProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

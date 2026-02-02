@@ -17,12 +17,12 @@ struct FHitResult;
 #endif
 #define SPARTAPROJECT_ItemInterface_generated_h
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnItemEndOverlap); \
 	DECLARE_FUNCTION(execOnItemOverlap);
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_13_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	SPARTAPROJECT_API UItemInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -36,7 +36,7 @@ public: \
 	SPARTAPROJECT_API virtual ~UItemInterface();
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_13_GENERATED_UINTERFACE_BODY() \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_13_GENERATED_UINTERFACE_BODY() \
 private: \
 	static void StaticRegisterNativesUItemInterface(); \
 	friend struct Z_Construct_UClass_UItemInterface_Statics; \
@@ -45,15 +45,15 @@ public: \
 	DECLARE_SERIALIZER(UItemInterface)
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_13_GENERATED_BODY \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_13_GENERATED_BODY \
 	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_13_GENERATED_UINTERFACE_BODY() \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_13_ENHANCED_CONSTRUCTORS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_13_GENERATED_UINTERFACE_BODY() \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
 protected: \
 	virtual ~IItemInterface() {} \
 public: \
@@ -62,12 +62,12 @@ public: \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_10_PROLOG
-#define FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_19_GENERATED_BODY \
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_10_PROLOG
+#define FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -75,7 +75,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> SPARTAPROJECT_API UClass* StaticClass<class UItemInterface>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_Projects_SpartaProject_Source_SpartaProject_Public_ItemInterface_h
+#define CURRENT_FILE_ID FID_Git_NBC_Task8_Task8_Source_SpartaProject_Public_ItemInterface_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
